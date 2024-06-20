@@ -11,8 +11,8 @@
   
   # :sparkles:Sobre mim:
   :seedling: Aluna de Desenvolvimento de Sistemas; <br>
-  :zap: Desenvolvendo meu <a href="https://ayanami016.github.io/TCC/">Trabalho de Conclusão de Curso</a>; <br>
-  :notebook: Aperfeiçoando e estudando ferramentas;
+  :zap: Desenvolvendo meu <a href="https://github.com/Ayanami016/TCC">Trabalho de Conclusão de Curso</a>; <br>
+  :notebook: Aperfeiçoando e estudando ferramentas.
   
   ## :computer:Ferramentas:
   <span id="tools">
@@ -23,6 +23,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70">
   </span>
+
+  ## :hammer_and_wrench:Meus projetos:
+<a href="https://ayanami016.github.io/TCC/">TCC - Website para Joalheria Bella Acessórios</a> (⚠️Em Andamento)
   
   ## :fire:Meus Status:
   <span id="status">
