@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&color=black">
       </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=success">
+    <img src="https://komarev.com/ghpvc/?username=Ayanami016&style=for-the-badge&color=success">
   </div>
   
   # :sparkles:Sobre mim:
