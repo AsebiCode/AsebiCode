@@ -15,14 +15,7 @@
   :notebook: Aperfeiçoando e estudando ferramentas.
   
   ## :computer:Ferramentas:
-  <span id="tools">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70">
-  </span>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,mysql,php,visualstudio)](https://skillicons.dev)
 
   ## :hammer_and_wrench:Meus projetos:
 <a href="https://ayanami016.github.io/TCC/" target="_blank">TCC - Website para Joalheria Bella Acessórios</a> (⚠️Em Andamento)
