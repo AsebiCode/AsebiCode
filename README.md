@@ -5,6 +5,9 @@
       <a href="https://twitter.com/AyanamiMijos">
         <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&color=black">
       </a>
+      <a href="https://www.linkedin.com/in/isabelly-souza-e-oliveira-5791222a5/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Ayanami016&style=for-the-badge&color=success">
   </div>
