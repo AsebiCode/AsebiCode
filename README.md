@@ -30,6 +30,6 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanami016)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ayanami016&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ayanami016&theme=radical&background=000000)](https://git.io/streak-stats)
   </span>
 </div>
