@@ -21,7 +21,7 @@
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,sass,mysql,php,vscode,git)](https://skillicons.dev)
 
   ## :hammer_and_wrench:Meus projetos:
-<a href="https://ayanami016.github.io/TCC/" target="_blank">TCC - Website para Joalheria Bella Acessórios</a> (⚠️Em Andamento)
+<a href="https://github.com/Ayanami016/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios ✔️</a>
   
   ## :fire:Meus Status:
   <span id="status">
