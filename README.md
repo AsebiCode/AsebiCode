@@ -14,7 +14,6 @@
   
   # :sparkles:Sobre mim:
   :seedling: Aluna de Desenvolvimento de Sistemas; <br>
-  :zap: Desenvolvendo meu <a href="https://github.com/Ayanami016/TCC" target="_blank">Trabalho de Conclusão de Curso</a>; <br>
   :notebook: Aperfeiçoando e estudando ferramentas.
   
   ## :computer:Ferramentas:
