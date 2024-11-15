@@ -18,7 +18,7 @@
   :notebook: Aperfeiçoando e estudando ferramentas.
   
   ## :computer:Ferramentas:
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,sass,mysql,php,vscode,git)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,js,sass,mysql,php,vscode,git)](https://skillicons.dev)
 
   ## :hammer_and_wrench:Meus projetos:
 <a href="https://github.com/Ayanami016/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios ✅</a>
