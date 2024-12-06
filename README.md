@@ -22,6 +22,7 @@
 
   ## :hammer_and_wrench:Meus projetos:
 <a href="https://github.com/Ayanami016/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios ✅</a>
+<a href="https://github.com/Ayanami016/Calculadora-Cientifica" target="_blank">Calculadora Científica</a>
   
   ## :fire:Meus Status:
   <span id="status">
