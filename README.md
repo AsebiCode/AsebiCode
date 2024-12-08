@@ -2,9 +2,6 @@
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ5ZnFkZjR2eG5mNXF3bWd6YmZuODE1dXV4MmNjdmZ3ejdjcDY5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TSo9ao1pklqKsIK0gR/giphy.gif" width="150">
     <div id="badges">
-      <a href="https://twitter.com/AyanamiMijos">
-        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&color=black">
-      </a>
       <a href="https://www.linkedin.com/in/isabelly-souza-e-oliveira-5791222a5/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
