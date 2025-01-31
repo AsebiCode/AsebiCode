@@ -11,7 +11,8 @@
   </div>
   
   # :sparkles:Sobre mim:
-  :seedling: Aluna de Desenvolvimento de Sistemas; <br>
+  :seedling: Ténica de Desenvolvimento de Sistemas; <br>
+  📚 1º Semestre de Ciência da Computação; <br>
   :notebook: Aperfeiçoando e estudando ferramentas.
   
   ## :computer:Ferramentas:
