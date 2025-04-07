@@ -15,8 +15,11 @@
   📚 1º Semestre de Ciência da Computação; <br>
   :notebook: Aperfeiçoando e estudando ferramentas.
   
-  ## :computer:Ferramentas:
+  ## :computer:Habilidades e Ferramentas:
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,js,sass,tailwindcss,mysql,php,vscode,git)](https://skillicons.dev)
+
+  ## 📝Aprendendo:
+[![Aprendendo](https://skillicons.dev/icons?i=tailwindcss,java,react)](https://skillicons.dev)
 
   ## :hammer_and_wrench:Meus projetos:
 <a href="https://github.com/AsebiCode/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios ✅</a> <br>
