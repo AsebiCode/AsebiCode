@@ -23,8 +23,9 @@
 
   ## :hammer_and_wrench:Meus projetos:
 <a href="https://github.com/AsebiCode/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios ✅</a> <br>
-<a href="https://github.com/AsebiCode/Calculadora-Cientifica" target="_blank">Calculadora Científica</a> <br>
-<a href="https://github.com/AsebiCode/Clima" target="_blank">Aplicação de Clima</a>
+<a href="https://github.com/AsebiCode/Calculadora-Cientifica" target="_blank">Calculadora Científica ✅</a> <br>
+<a href="https://github.com/AsebiCode/Clima" target="_blank">Aplicação de Clima</a> <br>
+<a href="https://github.com/AsebiCode/Logica-de-Programacao-Python">Lógica de Programação com Aplicações em Python</a>
   
   ## :fire:Meus Status:
   <span id="status">
