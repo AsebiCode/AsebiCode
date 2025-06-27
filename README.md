@@ -19,7 +19,7 @@
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,js,sass,tailwindcss,mysql,php,vscode,git)](https://skillicons.dev)
 
   ## 📝Aprendendo:
-[![Aprendendo](https://skillicons.dev/icons?i=tailwindcss,java,react,python,npm)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=tailwindcss,java,react,python,npm,postman)](https://skillicons.dev)
 
   ## :hammer_and_wrench:Meus projetos:
 <a href="https://github.com/AsebiCode/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios ✅</a> <br>
