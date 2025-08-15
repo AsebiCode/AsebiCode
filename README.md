@@ -16,7 +16,7 @@
   :notebook: Aperfeiçoando e estudando ferramentas.
   
   ## :computer:Habilidades e Ferramentas:
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,js,sass,tailwindcss,mysql,php,vscode,git)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,sass,tailwindcss,mysql,php,vscode,git)](https://skillicons.dev)
 
   ## 📝Aprendendo:
 [![Aprendendo](https://skillicons.dev/icons?i=tailwindcss,java,react,python,npm,postman)](https://skillicons.dev)
