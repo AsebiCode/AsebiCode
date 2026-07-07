@@ -25,7 +25,6 @@
 <a href="https://asebicode.github.io/PDFs-CCP/" target="_blank">Minhas Leituras - PDFs, HTMLs</a> <br>
 <a href="https://github.com/AsebiCode/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios ✅</a> <br>
 <a href="https://github.com/AsebiCode/Calculadora-Cientifica" target="_blank">Calculadora Científica ✅</a> <br>
-<a href="https://github.com/AsebiCode/Clima" target="_blank">Aplicação de Clima</a> <br>
 <a href="https://github.com/AsebiCode/Logica-de-Programacao-Python">Lógica de Programação com Aplicações em Python</a>
   
   ## :fire:Meus Status:
