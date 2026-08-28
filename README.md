@@ -11,7 +11,7 @@
   
   # :sparkles:Sobre mim:
   :seedling: Técnica de Desenvolvimento de Sistemas; <br>
-  📚 3º Semestre de Ciência da Computação; <br>
+  📚 4º Semestre de Ciência da Computação; <br>
   :notebook: Aperfeiçoando e estudando ferramentas.
   
   ## :computer:Habilidades e Ferramentas:
