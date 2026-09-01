@@ -21,13 +21,9 @@
 [![Aprendendo](https://skillicons.dev/icons?i=tailwindcss,java,react,python,npm,postman)](https://skillicons.dev)
 
   ## :hammer_and_wrench:Meus projetos:
-<a href="https://asebicode.github.io/PDFs-CCP/" target="_blank">Minhas Leituras - PDFs, HTMLs</a> <br>
-<a href="https://github.com/AsebiCode/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios ✅</a> <br>
-<a href="https://github.com/AsebiCode/Calculadora-Cientifica" target="_blank">Calculadora Científica ✅</a> <br>
-<a href="https://github.com/AsebiCode/Logica-de-Programacao-Python">Lógica de Programação com Aplicações em Python</a>
-  
-  ## :fire:Meus Status:
-  <span id="status">
+<a href="https://github.com/AsebiCode/MegatenGuesser" target="_blank">Jogo - Shin Megami Tensei Guesser</a> <br>
+<a href="https://github.com/AsebiCode/TCC-Bella-Acessorios" target="_blank">TCC - Website para Joalheria Bella Acessórios</a> <br>
+<a href="https://github.com/AsebiCode/Calculadora-Cientifica" target="_blank">Calculadora Científica</a> 
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AsebiCode&theme=radical&background=000000)](https://git.io/streak-stats)
   </span>
