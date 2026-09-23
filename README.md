@@ -15,10 +15,10 @@
   :notebook: Aperfeiçoando e estudando ferramentas.
   
   ## :computer:Habilidades e Ferramentas:
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,sass,tailwindcss,mysql,php,vscode,git)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,sass,python,java,tailwindcss,mysql,php,vscode,git)](https://skillicons.dev)
 
   ## 📝Aprendendo:
-[![Aprendendo](https://skillicons.dev/icons?i=tailwindcss,java,react,python,npm,postman)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=tailwindcss,react,npm,postman)](https://skillicons.dev)
 
   ## :hammer_and_wrench:Meus projetos:
 <a href="https://github.com/AsebiCode/MegatenGuesser" target="_blank">Jogo - Shin Megami Tensei Guesser</a> <br>
